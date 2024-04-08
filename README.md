@@ -13,4 +13,8 @@ But you can test the endpoint with this other [image](http://localhost:8082/filt
 
 ## Elastic Beanstalk environment
 
-To access the running elastic beanstalk deployment, use this [endpoint]()
+You can find the beanstalk deployment at this URL
+
+[http://fbi-image-processing-dev.us-east-1.elasticbeanstalk.com/](http://fbi-image-processing-dev.us-east-1.elasticbeanstalk.com/)
+
+And you can try the [endpoint](http://fbi-image-processing-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/1/15/Welsh_Springer_Spaniel.jpg) with the same image.
